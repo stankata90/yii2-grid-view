@@ -1,0 +1,21 @@
+{
+    "name": "stankata90/yii2-grid-view",
+    "description": "extend yii2 grid view",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "stankata90",
+            "email": "stanislav.vasilev.90@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "stankata90\\yii2GridView\\": ""
+        }
+    }
+}
